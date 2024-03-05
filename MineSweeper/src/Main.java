@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -11,6 +10,8 @@ public class Main {
         int row;
         int column;
 
+        //Kullanıcıdan Matris Boyutlarını alacağız
+        //Boyutlar 2x2 den küçük ise Uyarı verip tekrar aldıracağız
         do {
             System.out.println("Lütfen Oynamak İstediğiniz Boyutları giriniz !");
 
