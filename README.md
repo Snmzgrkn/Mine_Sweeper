@@ -10,7 +10,7 @@
     Elevate Your Coding Journey: Patika+ Full Stack Bootcamp
     <br/>
     <br/>
-    <a href="https://github.com/Snmzgrkn/Patika"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Snmzgrkn/Patika-Projects"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
   </p>
@@ -51,7 +51,7 @@ To set up and run this project on your local machine, follow these general steps
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Snmzgrkn/Patika/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Snmzgrkn/Patika-Projects/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
 * Please also read through the [Code Of Conduct](https://github.com/Snmzgrkn/Patika/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
