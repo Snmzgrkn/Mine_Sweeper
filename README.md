@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Snmzgrkn/Patika">
+  <a href="https://github.com/Snmzgrkn/Patika-Projects">
     <img src="images/patika.png" alt="Logo"  height="250">
   </a>
 
