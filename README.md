@@ -45,7 +45,7 @@ To set up and run this project on your local machine, follow these general steps
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Snmzgrkn/Patika.git
+   git clone https://github.com/Snmzgrkn/Patika-Projects.git
 
 
 ## Contributing
